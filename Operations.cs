@@ -19,7 +19,7 @@ namespace FancyCalc
         public static int Multiply(int x, int y)
         {
             // TODO #3. Add a breakpoint to the next line, run the unit test in the debug mode, and inspect the result during the program execution.
-            int result = x - y;
+            int result = x * y;
             return result;
         }
 
